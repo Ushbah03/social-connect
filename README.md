@@ -44,10 +44,6 @@ Social Connect is a minimal social media application developed as part of a mobi
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots here if you want to showcase your UI)*
-
 ---
 
 ## 📦 Tech Stack
@@ -69,4 +65,4 @@ Social Connect is a minimal social media application developed as part of a mobi
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/social-connect-android.git
+   git clone https://github.com/Ushbah03/social-connect-android.git
