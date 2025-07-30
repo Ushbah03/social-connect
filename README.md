@@ -16,6 +16,7 @@ Social Connect is a minimal social media application developed as part of a mobi
 - View other users' profiles
 
 ### 📝 Post Management
+
 - Create text/image posts
 - Upload images to Supabase Storage
 - View posts in scrollable RecyclerView
